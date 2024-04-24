@@ -3,4 +3,8 @@ project(test)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(test main.cpp TestRegistry.cpp)
+include_directories(include)
+
+add_executable(test 
+    src/main.cpp 
+    src/TestRegistry.cpp)
