@@ -1,3 +1,0 @@
-/home/mug1vara/projects/babytest/build/CMakeFiles/test.dir
-/home/mug1vara/projects/babytest/build/CMakeFiles/edit_cache.dir
-/home/mug1vara/projects/babytest/build/CMakeFiles/rebuild_cache.dir
